@@ -1,0 +1,5 @@
+com\kantar\sessionsjob\Main.class
+com\kantar\sessionsjob\FileManager.class
+com\kantar\sessionsjob\HomeHandler.class
+com\kantar\sessionsjob\HomeModel.class
+com\kantar\sessionsjob\DataManager.class
